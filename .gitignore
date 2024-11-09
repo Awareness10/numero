@@ -1,7 +1,11 @@
 .log
 .venv
 .vscode
-/__pycache__/
+
+__pycache__/
 *.pyc
+*.pyo
+*.pyd
+
 node_modules
 
